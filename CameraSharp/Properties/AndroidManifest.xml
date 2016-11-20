@@ -1,5 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="CameraSharp.CameraSharp" android:versionCode="1" android:versionName="1.0">
-	<uses-sdk android:minSdkVersion="16" />
-	<application android:label="CameraSharp"></application>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Net.Abice.Alice.Xamarin.CameraSharp" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="22" android:targetSdkVersion="22" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+	<uses-permission android:name="android.permission.CAMERA" />
+	<application android:label="CAMERA#" android:icon="@drawable/Icon"></application>
 </manifest>
