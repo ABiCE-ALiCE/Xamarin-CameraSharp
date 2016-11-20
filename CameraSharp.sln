@@ -5,7 +5,13 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CameraSharp", "CameraSharp\CameraSharp.csproj", "{A8D79855-A79A-44F7-B65A-AB81255EC0ED}"
 EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Shared", "Shared\Shared.shproj", "{F7BBE106-ECBF-46B7-9160-98D21DF3E718}"
+EndProject
 Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Shared\Shared.projitems*{a8d79855-a79a-44f7-b65a-ab81255ec0ed}*SharedItemsImports = 4
+		Shared\Shared.projitems*{f7bbe106-ecbf-46b7-9160-98d21df3e718}*SharedItemsImports = 13
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU

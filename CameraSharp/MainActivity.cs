@@ -6,7 +6,7 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-namespace CameraSharp
+namespace Net.Abice.Alice.Xamarin.CameraSharp
 {
     [Activity(Label = "CameraSharp", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity

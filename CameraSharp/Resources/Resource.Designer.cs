@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("CameraSharp.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("Net.Abice.Alice.Xamarin.CameraSharp.Resource", IsApplication=true)]
 
-namespace CameraSharp
+namespace Net.Abice.Alice.Xamarin.CameraSharp
 {
 	
 	
