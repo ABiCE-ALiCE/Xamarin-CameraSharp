@@ -1,5 +1,4 @@
-﻿README
+﻿CAMERA&#35;
 ===
 
-## CAMERA#
 Xamarin-CameraSharp is a camera app for Android.
