@@ -26,10 +26,14 @@ Xamarin for Visual Studio Update Availableをクリックしても更新され�
 1. cloneしてローカルに持ってくる
 1. Visual Studioの管理に追加する
 1. Gitのユーザー名とメールアドレスを設定する
-1. ブランチをわける(masterからdevelopを分岐)
 
 1. プロジェクトを作成する
 1. コミットする
 1. 同期する
 
+1. developブランチを作成する(masterからdevelopを分岐)
+1. developブランチをチェックアウトする(作成時にチェックアウトでOK)
+1. 何か変更を加えコミットする
+1. originに追加？
 
+1. developをmasterへマージする
